@@ -3,7 +3,7 @@
 This directory is an "Hello World" registery.
 You can freely complete it.
 
-# SOMMARY OF THE ACTUAL LANGUAGE USEED :
+# Sommary of the actual language useed :
 
 ## Python
 
