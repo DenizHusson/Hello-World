@@ -20,4 +20,8 @@ Basic language and one of the most simple to learn.
 
 ## Html
 
-*html
+*.html
+
+## JavaScript
+
+*.js
